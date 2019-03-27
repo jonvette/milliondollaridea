@@ -3,10 +3,14 @@ Backend
   
 Devops
   Jenkins - build server?
+    TeamCity - We use it at work so I'm a little familiar
+    GoCD - looks familiar and kinda interesting layout
   Deployment?? Dev/QA/Prod servers?
-  Code quality manager - Sonarqube
+    Octopus - We use it at work
+  Code quality manager - Sonarqube for smells, Jenkins for testing too, selenium for front end testing, docker can be used here too.
   Code repository - Github
   Docker? what is this but use it or something similar
+    This might be something to integrate later. Not something necessary to the pipeline.
 
 Front end
   Fuck

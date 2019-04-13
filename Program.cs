@@ -6,7 +6,7 @@ namespace milliondollaridea
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! OwO");
+            Console.WriteLine("Hello World! OwO *pounces on bulgie wulgie*");
         }
     }
 }
